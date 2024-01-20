@@ -26,7 +26,9 @@ By exploring the geographical distribution of Uber rides, users can make informe
 ## Future Enhancements
 
 **1. Integration with real-time data to provide up-to-date insights.**
+
 **2. Predictive analysis to forecast future demand and pricing trends.**
+
 **3. User-friendly visualization dashboards for easier interpretation.**
 
 ## Conclusion
