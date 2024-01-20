@@ -6,11 +6,11 @@
 
 ## Purpose
 
-**Optimal Time to Request a Ride:** Determine the best times of the day, week, and month to request an Uber ride in New York City. Understanding the patterns in demand and supply can help users minimize waiting times and ensure prompt pickups.
+**1. Optimal Time to Request a Ride:** Determine the best times of the day, week, and month to request an Uber ride in New York City. Understanding the patterns in demand and supply can help users minimize waiting times and ensure prompt pickups.
 
-**Price Analysis:** Investigate factors affecting Uber pricing, including peak hours, days, and geographical locations. By identifying trends in pricing, users can make cost-effective decisions when planning their rides.
+**2. Price Analysis:** Investigate factors affecting Uber pricing, including peak hours, days, and geographical locations. By identifying trends in pricing, users can make cost-effective decisions when planning their rides.
 
-**Geographical Insights:** Explore the distribution of Uber rides across different neighborhoods and boroughs in New York City. This information can help users anticipate availability and potential surges in specific areas.
+**3. Geographical Insights:** Explore the distribution of Uber rides across different neighborhoods and boroughs in New York City. This information can help users anticipate availability and potential surges in specific areas.
 
 ## Benefits for Customers
 
@@ -25,9 +25,9 @@ By exploring the geographical distribution of Uber rides, users can make informe
 
 ## Future Enhancements
 
-1. Integration with real-time data to provide up-to-date insights.
-2. Predictive analysis to forecast future demand and pricing trends.
-3. User-friendly visualization dashboards for easier interpretation.
+**1. Integration with real-time data to provide up-to-date insights.**
+**2. Predictive analysis to forecast future demand and pricing trends.**
+**3. User-friendly visualization dashboards for easier interpretation.**
 
 ## Conclusion
 
